@@ -3,7 +3,7 @@
  * Plugin Name:       Form Emails
  * Plugin URI:        https://rightroaddigital.com
  * Description:       Stores emails from form to Database
- * Version:           1.0.0
+ * Version:           1.5.0
  * Requires at least: 5.9
  * Requires PHP:      7.2
  * Author:            Liam Kneedy
